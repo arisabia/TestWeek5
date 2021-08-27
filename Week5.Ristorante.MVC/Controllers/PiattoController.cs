@@ -98,7 +98,8 @@ namespace Week5.Ristorante.MVC.Controllers
                 Id = model.Id,
                 Nome = model.Nome,
                 Descrizione = model.Descrizione,
-                Tipo = (Models.Tipo)model.Tipo,
+              Tipo = (Models.Tipo)model.Tipo,
+           
                 Prezzo = model.Prezzo
             };
             return View(empViewModel);
