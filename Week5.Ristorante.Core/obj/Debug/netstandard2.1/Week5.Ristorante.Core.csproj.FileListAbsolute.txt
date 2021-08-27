@@ -1,0 +1,9 @@
+C:\Users\larisa.b.antonica\source\repos\Week5.Ristorante.MVC\Week5.Ristorante.Core\bin\Debug\netstandard2.1\Week5.Ristorante.Core.deps.json
+C:\Users\larisa.b.antonica\source\repos\Week5.Ristorante.MVC\Week5.Ristorante.Core\bin\Debug\netstandard2.1\Week5.Ristorante.Core.dll
+C:\Users\larisa.b.antonica\source\repos\Week5.Ristorante.MVC\Week5.Ristorante.Core\bin\Debug\netstandard2.1\Week5.Ristorante.Core.pdb
+C:\Users\larisa.b.antonica\source\repos\Week5.Ristorante.MVC\Week5.Ristorante.Core\obj\Debug\netstandard2.1\Week5.Ristorante.Core.csproj.AssemblyReference.cache
+C:\Users\larisa.b.antonica\source\repos\Week5.Ristorante.MVC\Week5.Ristorante.Core\obj\Debug\netstandard2.1\Week5.Ristorante.Core.AssemblyInfoInputs.cache
+C:\Users\larisa.b.antonica\source\repos\Week5.Ristorante.MVC\Week5.Ristorante.Core\obj\Debug\netstandard2.1\Week5.Ristorante.Core.AssemblyInfo.cs
+C:\Users\larisa.b.antonica\source\repos\Week5.Ristorante.MVC\Week5.Ristorante.Core\obj\Debug\netstandard2.1\Week5.Ristorante.Core.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\source\repos\Week5.Ristorante.MVC\Week5.Ristorante.Core\obj\Debug\netstandard2.1\Week5.Ristorante.Core.dll
+C:\Users\larisa.b.antonica\source\repos\Week5.Ristorante.MVC\Week5.Ristorante.Core\obj\Debug\netstandard2.1\Week5.Ristorante.Core.pdb

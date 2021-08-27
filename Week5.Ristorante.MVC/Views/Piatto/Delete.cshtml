@@ -1,0 +1,13 @@
+﻿@model Piatto
+
+<h1>Delete</h1>
+
+<br />
+<form method="post">
+    <partial name="_InfoPiatto" model="Model" />
+
+    <br />
+
+    <input type="submit" class="btn btn-outline-danger" value="Delete" />
+    <a class="btn btn-info" asp-controller="Piatto" asp-action="Index">Back</a>
+</form>
